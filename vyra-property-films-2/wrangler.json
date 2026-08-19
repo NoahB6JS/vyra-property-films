@@ -1,5 +1,7 @@
 {
   "name": "vyra-property-films",
-  "compatibility_date": "2026-08-18",
-  "pages_build_output_dir": "./public"
+  "compatibility_date": "2026-08-19",
+  "assets": {
+    "directory": "./vyra-property-films-2/public"
+  }
 }
