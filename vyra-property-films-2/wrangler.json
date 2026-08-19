@@ -2,6 +2,6 @@
   "name": "vyra-property-films",
   "compatibility_date": "2026-08-19",
   "assets": {
-    "directory": "./vyra-property-films-2/public"
+    "directory": "./public"
   }
 }
